@@ -1,4 +1,4 @@
-# Covid-19 Stats
+# Covid-19 Stats Viewer
 covid19updater.netlify.app </br></br>
 ![image](https://user-images.githubusercontent.com/52123628/133957505-4c02c71f-0c7a-47b2-bb53-1f1b599e5557.png) </br></br>
 Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first known case was identified in Wuhan, China, in December 2019. The disease has since spread worldwide, leading to an ongoing pandemic.
