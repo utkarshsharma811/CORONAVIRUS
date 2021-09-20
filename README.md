@@ -34,6 +34,8 @@ India began its vaccination programme on 16 January 2021 with AstraZeneca vaccin
 ## State-wise Covid Data for India<br><br>
 ![image](https://user-images.githubusercontent.com/52123628/133987996-5d03f401-1fc9-4ef2-874e-78c503a82df6.png)<br><br>
 
-
 ## Symptoms and Precautions<br><br>
 ![image](https://user-images.githubusercontent.com/52123628/133971091-58ed8a43-99b8-4e02-b209-d2cd0ef49dc7.png) 
+
+## In need of Help<br><br>
+![image](https://user-images.githubusercontent.com/52123628/133988116-a459cf0d-35da-4004-894d-9813e5752acc.png)
